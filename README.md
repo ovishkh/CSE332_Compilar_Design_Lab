@@ -1,0 +1,1 @@
+CSE332, or Compiler Design, is a course that focuses on the principles and techniques used in designing and implementing compilers, which are programs that translate code from one programming language to another. The course typically includes topics such as lexical analysis, parsing, semantic analysis, and code generation.
